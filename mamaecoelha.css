@@ -1,0 +1,537 @@
+/* Rectangle 4 */
+
+
+position: absolute;
+width: 1161px;
+height: 873px;
+left: 279px;
+top: 151px;
+
+background: rgba(247, 222, 231, 0.71);
+
+
+/* Home */
+
+body {
+position: absolute;
+width: 1440px;
+height: 1024px;
+left: 0px;
+top: 0px;
+}
+
+
+/* Menu Lateral */
+menu{
+
+position: absolute;
+width: 280px;
+height: 873px;
+left: 1px;
+top: 153px;
+
+background: rgba(197, 235, 253, 0.8);
+}
+
+/* Fale conosco */
+button {
+
+position: absolute;
+left: 2.29%;
+right: 83.19%;
+top: 65.92%;
+bottom: 28.52%;
+
+font-family: Swanky and Moo Moo;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 53px;
+
+color: #000000;
+
+}
+
+/* Rectangle 20 */
+button {
+
+position: absolute;
+width: 252px;
+height: 56px;
+left: 12px;
+top: 428px;
+
+background: #D2D7FF;
+border: 1px solid #1510FD;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/* Rectangle 6 */
+
+button {
+position: absolute;
+width: 252px;
+height: 58px;
+left: 15px;
+top: 179px;
+
+background: #D2D7FF;
+border: 1px solid #1510FD;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/* Rectangle 22 */
+
+button {
+position: absolute;
+width: 252px;
+height: 59px;
+left: 12px;
+top: 676px;
+
+background: #D2D7FF;
+border: 1px solid #1510FD;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/* Rectangle 21 */
+button {
+
+position: absolute;
+width: 252px;
+height: 58px;
+left: 12px;
+top: 553px;
+
+background: #D2D7FF;
+border: 1px solid #1510FD;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/* Menu superior */
+
+
+position: absolute;
+width: 1439px;
+height: 151px;
+left: 1px;
+top: 0px;
+
+background: url(depositphotos_2001470-stock-photo-tablecloth-texture-checked-fabric.jpg);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* (48) 996811315 */
+
+textarea "tel"{
+position: absolute;
+width: 80px;
+height: 14px;
+left: 1188px;
+top: 87px;
+
+font-family: Swanky and Moo Moo;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 21px;
+
+color: #000000;
+
+}
+
+/* (48) 996811315 */
+text {
+
+position: absolute;
+width: 83px;
+height: 29px;
+left: 69px;
+top: 865px;
+
+font-family: Swanky and Moo Moo;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 21px;
+
+color: #000000;
+
+}
+
+/* Alessandra M Coelha */
+
+
+position: absolute;
+width: 123px;
+height: 27px;
+left: 71px;
+top: 782px;
+
+font-family: Swanky and Moo Moo;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 21px;
+
+color: #000000;
+
+
+
+/* mamae_coelha_ale */
+
+
+position: absolute;
+width: 111px;
+height: 14px;
+left: 1188px;
+top: 66px;
+
+font-family: Swanky and Moo Moo;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 21px;
+
+color: #000000;
+
+
+
+/* mamae_coelha_ale */
+
+
+position: absolute;
+width: 115px;
+height: 30px;
+left: 69px;
+top: 819px;
+
+font-family: Swanky and Moo Moo;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 21px;
+
+color: #000000;
+
+
+
+/* Mamãe Coelha */
+
+
+position: absolute;
+left: 10.76%;
+right: 56.94%;
+top: 3.61%;
+bottom: 88.57%;
+
+font-family: Swanky and Moo Moo;
+font-style: normal;
+font-weight: normal;
+font-size: 72px;
+line-height: 106px;
+
+color: #A41919;
+
+border: 0.5px solid rgba(0, 0, 0, 0.8);
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* a12ffe49-da40-4449-9b9a-5a654c7ee9c1 1 */
+
+
+position: absolute;
+width: 188px;
+height: 151px;
+left: 634px;
+top: 0px;
+
+background: url(a12ffe49-da40-4449-9b9a-5a654c7ee9c1.jpg);
+border-radius: 77px;
+
+
+/* Fale conosco */
+
+
+position: absolute;
+left: 2.29%;
+right: 83.19%;
+top: 65.92%;
+bottom: 28.52%;
+
+font-family: Swanky and Moo Moo;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 53px;
+
+color: #000000;
+
+
+
+/* Quem somos */
+
+
+position: absolute;
+left: 2.64%;
+right: 82.92%;
+top: 17.87%;
+bottom: 75.88%;
+
+font-family: Swanky and Moo Moo;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 53px;
+
+color: #000000;
+
+
+
+/* Fashion Pet */
+
+
+position: absolute;
+width: 173px;
+height: 75px;
+left: 46px;
+top: 432px;
+
+font-family: Swanky and Moo Moo;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 53px;
+
+color: #000000;
+
+
+
+/* Compre o seu */
+
+
+position: absolute;
+width: 213px;
+height: 72px;
+left: 33px;
+top: 553px;
+
+font-family: Swanky and Moo Moo;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 53px;
+
+color: #000000;
+
+
+
+/* Facebook-icon 1 */
+
+
+position: absolute;
+width: 32px;
+height: 20px;
+left: 1144px;
+top: 42px;
+
+background: url(Facebook-icon.png);
+
+
+/* Facebook-icon 2 */
+
+
+position: absolute;
+width: 33px;
+height: 37px;
+left: 24px;
+top: 782px;
+
+background: url(Facebook-icon.png);
+
+
+/* Instagram-icon 1 */
+
+
+position: absolute;
+width: 32px;
+height: 22px;
+left: 1144px;
+top: 62px;
+
+background: url(Instagram-icon.png);
+
+
+/* Instagram-icon 2 */
+
+
+position: absolute;
+width: 33px;
+height: 46px;
+left: 24px;
+top: 819px;
+
+background: url(Instagram-icon.png);
+
+
+/* Whatsapp-icon 2 */
+
+
+position: absolute;
+width: 33px;
+height: 39px;
+left: 24px;
+top: 865px;
+
+background: url(Whatsapp-icon.png);
+
+
+/* Alessandra M Coelha */
+
+
+position: absolute;
+width: 119px;
+height: 14px;
+left: 1190px;
+top: 46px;
+
+font-family: Swanky and Moo Moo;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 21px;
+
+color: #000000;
+
+
+
+/* Alessandra M Coelha */
+
+
+position: absolute;
+width: 123px;
+height: 27px;
+left: 71px;
+top: 782px;
+
+font-family: Swanky and Moo Moo;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 21px;
+
+color: #000000;
+
+
+
+/* mamae_coelha_ale */
+
+
+position: absolute;
+width: 111px;
+height: 14px;
+left: 1188px;
+top: 66px;
+
+font-family: Swanky and Moo Moo;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 21px;
+
+color: #000000;
+
+
+
+/* mamae_coelha_ale */
+
+
+position: absolute;
+width: 115px;
+height: 30px;
+left: 69px;
+top: 819px;
+
+font-family: Swanky and Moo Moo;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 21px;
+
+color: #000000;
+
+
+
+/* Whatsapp-icon 3 */
+
+
+position: absolute;
+width: 32px;
+height: 20px;
+left: 1144px;
+top: 84px;
+
+background: url(Whatsapp-icon.png);
+
+
+/* Youtube-icon 3 */
+
+
+position: absolute;
+width: 32px;
+height: 20px;
+left: 1144px;
+top: 105px;
+
+background: url(Youtube-icon.png);
+
+
+/* Youtube-icon 4 */
+
+
+position: absolute;
+width: 33px;
+height: 39px;
+left: 24px;
+top: 907px;
+
+background: url(Youtube-icon.png);
+
+
+/* Rectangle 19 */
+
+
+position: absolute;
+width: 252px;
+height: 58px;
+left: 12px;
+top: 294px;
+
+background: #D2D7FF;
+border: 1px solid #1510FD;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Acessórios */
+
+
+position: absolute;
+width: 147px;
+height: 53px;
+left: 57px;
+top: 297px;
+
+font-family: Swanky and Moo Moo;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 53px;
+/* identical to box height */
+
+
+color: #000000;
